@@ -22,7 +22,7 @@ Follow these steps to install the WP-ALCS-Plugin:
 
 1. **Clone the Repository**:
     ```sh
-    git clone git@github.com:Abbalochdev/WP-ALCS-Plugin.git
+    git clone https://github.com/Abbalochdev/WP-ALCS-Plugin.git
     ```
 
 2. **Navigate to the Plugin Directory**:
