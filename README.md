@@ -7,7 +7,7 @@ WP-ALCS-Plugin is a versatile WordPress plugin designed to manage country and la
 2. For use you need 2 more plugins (WooCommerce Price Based on Country, and Loco Translator).
 3. The 'Woocommerce price based on country' plugin is for making a zone, where you put the countries, and their currency equal to UEA currency,
    2nd 'Loco Translator' puts the generated Arabic or another language file to work for specific language changes.
-
+4. Shortcodes you can use on their page or anywhere you want. For the country you can: "[alcs_country]" and for Langauge "[alcs_language]".
 
 ## Features
 
