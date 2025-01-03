@@ -4,7 +4,9 @@ WP-ALCS-Plugin is a versatile WordPress plugin designed to manage country and la
 
 # Note:
 1. This Plugin is directly focusing GCC Countries: e.g(UEA, Saudi Arabia, Qatar, Oman, and Kuwait).
-2. For use you need more plugins (WooCommerce Price Based on Country, and Loco Translator).
+2. For use you need 2 more plugins (WooCommerce Price Based on Country, and Loco Translator).
+3. The 'Woocommerce price based on country' plugin is for making a zone, where you put the countries, and their currency equal to UEA currency,
+   2nd 'Loco Translator' puts the generated Arabic or another language file to work for specific language changes.
 
 
 ## Features
