@@ -3,7 +3,9 @@
 WP-ALCS-Plugin is a versatile WordPress plugin designed to manage country and language-specific URLs, ensuring your website is optimized for search engines. This plugin makes it easy to implement country switching and add hreflang tags, enhancing your site's SEO.
 
 # Note:
-This Plugin is directly focusing GCC Countries like: e.g(UEA, Saudi Arabia, Qatar, Oman, Kuwait)
+1. This Plugin is directly focusing GCC Countries: e.g(UEA, Saudi Arabia, Qatar, Oman, and Kuwait).
+2. For use you need more plugins (WooCommerce Price Based on Country, and Loco Translator).
+
 
 ## Features
 
