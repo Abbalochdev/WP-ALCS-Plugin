@@ -1,0 +1,93 @@
+/* Language Switcher */
+.lang-switch {
+    padding: 8px 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    /*background: #fff;*/
+    cursor: pointer;
+    color:white;
+}
+
+.lang-switch.mobile {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .lang-switch {
+        display: none;
+    }
+    .lang-switch.mobile {
+        display: inline;
+    }
+}
+
+.lang-switch .global-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    color:white;
+}
+
+.lang-switch .lang-text {
+    line-height: 1;
+}
+
+/* RTL support */
+[dir="rtl"] .lang-switch .global-icon {
+    margin-right: 0;
+    margin-left: 8px;
+}
+
+/* Country Selector */
+.custom-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-btn {
+    padding: 8px 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: white;
+    cursor: pointer;
+    min-width: 150px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+    z-index: 1000;
+}
+
+.custom-dropdown.open .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.dropdown-item:hover {
+    background: #f5f5f5;
+}
+
+.flag-icon {
+    width: 20px;
+    height: 15px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+
+
+[dir="rtl"] .flag-icon {
+    margin-right: 0;
+    margin-left: 8px;
+}
