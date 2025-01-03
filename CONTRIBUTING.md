@@ -1,4 +1,6 @@
-### 2. CONTRIBUTING.md
+### Additional Files
+
+#### CONTRIBUTING.md
 
 ```markdown
 # Contributing to WP-ALCS-Plugin
