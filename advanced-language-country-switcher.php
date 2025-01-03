@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Advanced Language & Country Switcher
- * Plugin URI: https://yourwebsite.com
+ * Plugin URI: https://github.com/Abbalochdev/WP-ALCS-Plugin/
  * Description: Advanced language and country switcher with WooCommerce integration
  * Version: 1.0.0
  * Author: Abbalochdev
